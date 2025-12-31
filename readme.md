@@ -12,17 +12,19 @@
 <img src="../assets/inspiration/insp-btop.png" width="800"/></td>
 
 ## Steps
-### 1. Install btop
-```sh
-sudo pacman -S btop
-```
-### 2. Create theme folder and file
+### 0. Before you start
+- Make sure [Geist Mono Nerd Font](../INSTALL.md##Prerequisites&Setup) is installed
+- Make sure kitty is installed: `sudo pacman -S kitty` and theme is applied
+- Make sure btop is installed: `sudo pacman -S btop`
+- See [Installation Guide](../INSTALL.md) if you haven't set up prerequisites yet
+
+### 1. Create theme folder and file
 ```sh
 mkdir -p ~/.config/btop/themes
 $EDITOR ~/.config/btop/themes/CYBRtop.theme
 ```
-### 3. Insert [CYBRtop](../btop/CYBRtop.theme)
-### 4. Apply theme
+### 2. Insert [CYBRtop](../btop/CYBRtop.theme)
+### 3. Apply theme
 ```sh
 btop
 
