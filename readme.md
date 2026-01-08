@@ -17,6 +17,7 @@
 - Make sure kitty is installed: `sudo pacman -S kitty` and theme is applied
 - Make sure btop is installed: `sudo pacman -S btop`
 - See [Installation Guide](../INSTALL.md) if you haven't set up prerequisites yet
+- [Github](https://github.com/aristocratos/btop)
 
 ### 1. Create theme folder and file
 ```sh
