@@ -13,7 +13,7 @@
 
 ## Steps
 ### 0. Before you start
-- Make sure [Geist Mono Nerd Font](../INSTALL.md##Prerequisites&Setup) is installed
+- Make sure [Geist Mono Nerd Font](../INSTALL.md#prerequisites--setup) is installed
 - Make sure kitty is installed: `sudo pacman -S kitty` and theme is applied
 - Make sure btop is installed: `sudo pacman -S btop`
 - See [Installation Guide](../INSTALL.md) if you haven't set up prerequisites yet
