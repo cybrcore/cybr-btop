@@ -1,8 +1,8 @@
 # ---------------------------------------
-# CYBRtop     btop theme (part of cybrland)
-# Project:    https://github.com/scherrer-txt/cybrland
+# cybr-btop   lucid theme for btop
+# Project:    https://github.com/cybrcore/cybr-btop
 # Author:     scherrer-txt   |   License:     GPL-3.0
-# Source:     ~/.config/btop/themes/CYBRtop.theme
+# Source:     ~/.config/btop/themes/cybrcore.theme
 # ---------------------------------------
 
 theme[main_bg]="#030408"
